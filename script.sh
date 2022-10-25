@@ -2,6 +2,7 @@
 
 #Auhor: Laure H
 #Date: 2022-10-23
+#Version: V1
 # Description: This file is to install different software/packages
 
 echo
